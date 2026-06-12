@@ -14,7 +14,7 @@ Document at least 3 bugs you found. Add rows as needed.
 
 | Input | Expected Behavior | Actual Behavior | Console Output / Error |
 |-------|-------------------|-----------------|------------------------|
-| | | | |
+| Easy Mode Attempts | Give more than Medium Mode attempts. | Gave less than Medium Mode attempts. |  |
 | | | | |
 | | | | |
 
@@ -23,8 +23,15 @@ Document at least 3 bugs you found. Add rows as needed.
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
+
+I used Claude Sonnet.
+
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
+
+The AI was able to catch the failed inputs for ```check_guess()```.
+
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
+
 
 ---
 

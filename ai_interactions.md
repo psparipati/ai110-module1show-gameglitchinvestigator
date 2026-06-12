@@ -10,15 +10,15 @@
 
 **What task did you give the agent?**
 
-<!-- Describe the goal you asked the agent to accomplish -->
+I asked the agent to "Check for any logical errors in check_guess()" after I had experimented with the code to no avail.
 
 **What did the agent do?**
 
-<!-- List the steps the agent took (files edited, commands run, etc.) -->
+The agent looked at my implementation, then saw that I
 
 **What did you have to verify or fix manually?**
 
-<!-- Describe anything the agent got wrong or that required human review -->
+I had to make sure that Claude Code did not affect the "Too High!" or "Too Low!" texts, and fixed it to keep the original forms.
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Edge Case | Prompt Used | AI-Suggested Test | Did It Pass? | Your Reasoning |
 |-----------|-------------|-------------------|--------------|----------------|
-| | | | | |
+| | Create a pytest for the app. | | | |
 | | | | | |
 | | | | | |
 
@@ -40,19 +40,15 @@
 
 **Prompt used:**
 
-```
-<!-- Paste the prompt you gave the AI -->
-```
+N/A
 
 **Linting output before:**
 
-```
-<!-- Paste relevant linter warnings/errors -->
-```
+N/A
 
 **Changes applied:**
 
-<!-- Describe what you changed based on the AI's suggestions -->
+N/A
 
 ---
 
@@ -62,7 +58,7 @@
 
 **Task given to both models:**
 
-<!-- Describe what you asked each model to do -->
+N/A
 
 | | Model A | Model B |
 |-|---------|---------|
@@ -73,4 +69,8 @@
 
 **Which did you prefer and why?**
 
-<!-- Your conclusion -->
+N/A
+
+---
+
+**I did not end up using the AI for several of the given purposes, as once I read the code, I was able to deduce what was wrong by myself.**
