@@ -2,8 +2,7 @@
 
 ## 🚨 The Situation
 
-You asked an AI to build a simple "Number Guessing Game" using Streamlit.
-It wrote the code, ran away, and now the game is unplayable. 
+You asked an AI to build a simple "Number Guessing Game" using Streamlit. It wrote the code, ran away, and now the game is unplayable.
 
 - You can't win.
 - The hints lie to you.
@@ -36,9 +35,9 @@ Describe your fixed game in numbered steps so a reader can follow along without 
 1. Pick a difficulty (Easy: 11 attempts, Medium: 8 attempts, Hard: 5 attempts).
 2. Click ```New Game``` to generate a number to guess.
 3. From now on, just play until you get the number.
-   * If you get the number, balloons will fly from the screen to congratulate you (like below).
-   * If you overshot the number, you will get a message saying "📉 Go LOWER!".
-   * If you undershoot the number, you will get a message saying "📈 Go HIGHER!"
+      - If you get the number, balloons will fly from the screen to congratulate you (like below).
+      - If you overshot the number, you will get a message saying "📉 Go LOWER!".
+      - If you undershoot the number, you will get a message saying "📈 Go HIGHER!"
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
