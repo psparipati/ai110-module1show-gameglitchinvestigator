@@ -39,7 +39,7 @@ Describe your fixed game in numbered steps so a reader can follow along without 
       - If you overshot the number, you will get a message saying "📉 Go LOWER!".
       - If you undershoot the number, you will get a message saying "📈 Go HIGHER!"
 
-**Screenshot** *(optional)*: ![Sample Playthrough of our number Game](sample_playthrough.png)
+**Screenshot**: ![Sample Playthrough of our number Game](sample_playthrough.png)
 
 ## 🧪 Test Results
 
